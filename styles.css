@@ -58,6 +58,11 @@ textarea:focus {
   display: flex;
 }
 
+.inline-control label {
+  margin: 0;
+  margin-left: 0.5rem;
+}
+
 .inline-control input {
   width: auto;
 }
