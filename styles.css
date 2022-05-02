@@ -16,3 +16,14 @@ form {
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
   border-radius: 6px;
 }
+
+section {
+  margin-bottom: 1rem;
+}
+
+label {
+  color: rgb(34, 43, 61);
+  display: block;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
