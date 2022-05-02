@@ -2,3 +2,8 @@ body {
   font-family: sans-serif;
   background-color: rgb(236, 252, 253);
 }
+
+h1 {
+  text-align: center;
+  margin: 2rem;
+}
