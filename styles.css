@@ -28,8 +28,8 @@ ul {
 }
 
 label {
-  color: rgb(34, 43, 61);
+  color: rgb(66, 76, 97);
   display: block;
   font-weight: bold;
-  margin-bottom: 0.5rem;
+  margin: 0.5rem 0;
 }
