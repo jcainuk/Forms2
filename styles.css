@@ -33,3 +33,15 @@ label {
   font-weight: bold;
   margin: 0.5rem 0;
 }
+
+input,
+textarea,
+select {
+  font: inherit;
+  padding: 0.5rem;
+  border: 1px solid rgb(152, 159, 184);
+  width: 100%;
+  display: block;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
