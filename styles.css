@@ -57,3 +57,7 @@ textarea:focus {
 .inline-control {
   display: flex;
 }
+
+.inline-control input {
+  width: auto;
+}
